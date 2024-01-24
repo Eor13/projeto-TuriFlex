@@ -1,7 +1,7 @@
 # projeto-TuriFlex
 Projeto realizado para prática de CSS, idealizado pela instrutora Karen Santos na plataforma Dio .
 
-<img src ="./page-prsentation.png" alt="tela do projeto.">
+<img src ="./image/page-prsentation.png" alt="tela do projeto.">
 <a href="https://eor13.github.io/projeto-TuriFlex/" target="_blank">Clique Aqui para ir direto para página</a>
 
 

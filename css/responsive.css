@@ -1,0 +1,50 @@
+@media (max-width:992px) {
+    .flex-container{
+        flex-direction: column;
+    }
+    .presentation{
+        flex-direction: column-reverse;
+    }
+    .presentation .text-presentation{
+        width: 100%;
+        text-align: center;
+    }
+    .btn{
+        margin: auto;
+    }
+    #who-are-we{
+        flex-direction: column-reverse;
+    }
+    #who-are-we img{
+        min-width: 320px;
+        margin: auto;
+    }
+    .about{
+        display: flex;
+        flex-direction: column;
+        align-items: center ;
+    }
+    .about h2{
+        width: 90%;
+        justify-content: baseline;
+    }
+    .list-services{
+        flex-direction: column;
+    }
+    .item-service img{
+        width: 50%;
+        margin: auto;
+    }
+
+    .list-plans{
+        flex-direction: column;
+        align-items: flex-start;
+        margin-bottom: 20px;
+    }
+    .list-plans .item-plan{
+        max-width: 90%;
+        margin: auto;
+        width: 100%;
+        margin-bottom:20px;
+    }
+}
